@@ -1,0 +1,3 @@
+refs:
+    - pip://nmk-rust!plugin.yml
+    - pip://nmk-vscode!plugin.yml
