@@ -1,3 +1,7 @@
 refs:
     - pip://nmk-rust!plugin.yml
     - pip://nmk-vscode!plugin.yml
+
+config:
+    projectName: nmk-rust-sample
+    projectAuthor: The Dynod Project
